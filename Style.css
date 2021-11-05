@@ -1,0 +1,13 @@
+body {
+  font-family: "Zen Kurenaido", sans-serif;
+  font-size: 20px;
+}
+h1 {
+  color: blue;
+  font-size: 100px;
+  font-family: "Ceviche One", cursive;
+  text-align: center;
+}
+html {
+  background-color: rgb(255, 195, 127);
+}
