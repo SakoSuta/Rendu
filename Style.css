@@ -11,3 +11,9 @@ h1 {
 html {
   background-color: rgb(255, 195, 127);
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
