@@ -1,19 +1,53 @@
-body {
-  font-family: "Zen Kurenaido", sans-serif;
-  font-size: 20px;
+html {
+  background-color: #7f7870;
 }
 h1 {
-  color: blue;
-  font-size: 100px;
-  font-family: "Ceviche One", cursive;
+  font-size: 60px;
   text-align: center;
+  font-family: "Walter Turncoat", cursive;
+  margin: 15px;
 }
-html {
-  background-color: rgb(255, 195, 127);
+header {
+  background-color: #6b5e52;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 18px;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  word-spacing: 80px;
 }
-
 img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+h2 {
+  font-size: 20px;
+  font-family: "Walter Turncoat", cursive;
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+h3 {
+  font-family: "Montserrat Alternates", sans-serif;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+ol {
+  list-style-type: decimal;
+  margin-left: 38px;
+}
+p,
+li,
+footer {
+  font-family: "Glegoo", serif;
+  margin: 10px;
+  margin-left: 38px;
+}
+section {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 18px;
+  background-color: #8b9187;
 }
